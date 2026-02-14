@@ -1,6 +1,6 @@
-# A02 – Git, WebStorm, and GitHub Tutorial
+# A02 – Git, Vscode, and GitHub Tutorial
 
-# PART 1: Directions on Using Git, WebStorm, and GitHub
+# PART 1: Directions on Using Git, Vscode, and GitHub
 
 ## Part 1/Step 1: Install Git
 1. Go to the official Git website: <https://git-scm.com/> and download the installer for your operating system (windows or Mac).
